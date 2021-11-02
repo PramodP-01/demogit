@@ -26,4 +26,9 @@ public class FacebookTestcase {
 		driver.close();
 
 	}
+	
+	@Test
+	public void git() {
+		System.out.println("welcome to github");
+	}
 }
